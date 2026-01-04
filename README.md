@@ -1,4 +1,3 @@
-# Household_Energy_Forecasting
 # Household Energy Consumption Forecasting
 
 ## 📌 Objective
